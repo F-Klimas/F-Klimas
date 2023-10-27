@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nice to meet you! 👋
 
 - 📖 I’m currently studying electrical engineering
 

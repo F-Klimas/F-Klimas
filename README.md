@@ -1,6 +1,6 @@
 ### Hi there, nice to meet you 👋
 
-- 📖 I’m a German student studying electrical engineering atm
+- 📖 I’m a German student studying electrical engineering
 
 <!--
 **F-Klimas/F-Klimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

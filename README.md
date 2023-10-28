@@ -1,6 +1,9 @@
 ### Hi there, nice to meet you 👋
 
 - 📖 I’m a German student studying electrical engineering
+- I enjoy finding creative ways to solve problems and I’m interested in applied mathematics and physics 
+- During my lecture-free period I work at Netze BW GmbH
+
 
 <!--
 **F-Klimas/F-Klimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

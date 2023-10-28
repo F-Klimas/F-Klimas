@@ -2,7 +2,7 @@
 
 - 📖 I’m a German student studying electrical engineering
 - I enjoy finding creative ways to solve problems and I’m interested in applied mathematics and physics 
-- During my lecture-free periods I work at Netze BW GmbH
+- During my lecture-free periods, I’m employed at Netze BW GmbH working on various projects related to electrical infrastructure
 
 
 <!--

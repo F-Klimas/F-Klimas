@@ -1,9 +1,9 @@
 ### Hi there, nice to meet you 👋
 
-- 📖 I’m a German student studying electrical engineering
+- 📖 I'm a German student studying electrical engineering
 - 🌱 I enjoy implementing creative ideas to help shape a more efficient and sustainable technological future
-- ✨ I’m interested in open source coding, applied mathematics and physics
-- ⚙️ During my lecture-free periods, I’m employed at Netze BW GmbH working on various projects related to electrical infrastructure
+- ✨ My passion lies in in open source coding, applied mathematics and physics
+- ⚙️ During my lecture-free periods, I'm employed at Netze BW GmbH working on various projects related to electrical infrastructure
 
 
 <!--
